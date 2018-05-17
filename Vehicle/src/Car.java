@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class Car extends Vehicle {
+    private int numberOfSeats;
 
-public class Car {
+    public Car(int numberOfSeats) {
+
+    }
 }
